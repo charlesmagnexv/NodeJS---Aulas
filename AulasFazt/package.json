@@ -1,0 +1,22 @@
+{
+  "name": "aulasfazt",
+  "version": "1.0.0",
+  "description": "um curso de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index05.js",
+    "desenvolvimento": "node index04.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "espanhol"
+  ],
+  "author": "marco",
+  "license": "ISC"
+}
